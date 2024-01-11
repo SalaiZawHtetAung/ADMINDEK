@@ -9,12 +9,7 @@
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
-  "dependencies": {
-    "animate.css": "^4.1.1",
-    "flowbite": "^2.2.1",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
-  },
+ 
   "devDependencies": {
     "@types/react": "^18.2.43",
     "@types/react-dom": "^18.2.17",
@@ -26,6 +21,23 @@
     "eslint-plugin-react-refresh": "^0.4.5",
     "postcss": "^8.4.33",
     "tailwindcss": "^3.4.1",
-    "vite": "^5.0.8"
+    "vite": "^5.0.8",
+    "@amcharts/amcharts5": "^5.7.6",
+    "@amcharts/amcharts5-fonts": "^5.0.1",
+    "@amcharts/amcharts5-geodata": "^5.1.2",
+    "@fortawesome/fontawesome-svg-core": "^6.5.1",
+    "@fortawesome/free-solid-svg-icons": "^6.5.1",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "apexcharts": "^3.45.1",
+    "chart.js": "^4.4.1",
+     "flowbite": "^2.2.1",
+    "react": "^18.2.0",
+    "react-apexcharts": "^1.4.1",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "^18.2.0",
+    "react-input-slider": "^6.0.1",
+    "react-router-dom": "^6.21.1",
+    "animate.css": "^4.1.1",
+    
   }
 }
