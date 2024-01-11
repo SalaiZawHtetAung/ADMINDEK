@@ -12,8 +12,5 @@ export default {
       robo: ["Roboto", "'Rubik'", "Padauk"],
     },
   },
-  
   plugins: [require("flowbite/plugin")],
-  
-}
-
+};
