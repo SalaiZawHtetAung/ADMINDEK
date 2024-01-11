@@ -1,8 +1,11 @@
 import React from 'react'
+import InputForm from './components/InputForm'
 
 const App = () => {
   return (
-    <div>App</div>
+    <div>
+      <InputForm/>
+    </div>
   )
 }
 
